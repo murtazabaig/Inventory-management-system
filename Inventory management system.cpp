@@ -649,8 +649,7 @@ void buyerr::receipt() {
     system("pause");
 }
 Header.h:
-// 22F-3106 M.sameed ullah khan
-// 22F-3128 Murtaza baig
+
 #include<iostream>
 #include<fstream>
 #include<conio.h>
@@ -695,8 +694,7 @@ public:
 };
 
 Source1.cpp:
-// 22F-3106 M.sameed ullah khan
-// 22F-3128 Murtaza baig
+
 #include<iostream>
 #include<fstream>
 #include<conio.h>
@@ -710,7 +708,7 @@ int main() {
     shopping a;
     a.menu();
 }
-Output:
+
  
  
   
